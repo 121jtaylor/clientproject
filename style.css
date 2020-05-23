@@ -5,3 +5,9 @@ body {
   margin:100px;
   margin-top:0px;
 }
+#about, #rates, #contact {
+  background-color:#bfd6e0;
+}
+#services, #gallery, #home {
+  background-color:#e6e6e6
+}
